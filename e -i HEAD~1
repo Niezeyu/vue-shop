@@ -1,0 +1,35 @@
+[33mcommit 9bf807e2dd1f0a647f6a4638ec36ca78d4b2df8d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/goods_cate[m[33m, [m[1;32mgoods_cate[m[33m)[m
+Author: niezeyu <1763703458@qq.com>
+Date:   Sun May 9 19:14:41 2021 +0800
+
+    完成了分了功能的开发
+
+[33mcommit 7ee6638d26d666b7ee510dbc163f16a1ea450650[m[33m ([m[1;31morigin/rights[m[33m, [m[1;32mrights[m[33m)[m
+Author: niezeyu <1763703458@qq.com>
+Date:   Fri May 7 16:59:16 2021 +0800
+
+    完成权限管理功能的开发
+
+[33mcommit b16af39eda49d68e5f5645ad8cc202fb03cd0572[m[33m ([m[1;31morigin/user[m[33m, [m[1;32muser[m[33m)[m
+Author: niezeyu <1763703458@qq.com>
+Date:   Wed May 5 17:36:16 2021 +0800
+
+    完成用户泪飙功能的开发
+
+[33mcommit ca566ac0522f07d158629c87ec5a2714f093a9ba[m[33m ([m[1;31morigin/login[m[33m, [m[1;32mlogin[m[33m)[m
+Author: niezeyu <1763703458@qq.com>
+Date:   Mon May 3 21:31:32 2021 +0800
+
+    the login function is finished
+
+[33mcommit be232c6020db9e32050d9aa4b3f149c213740d6d[m
+Author: niezeyu <1763703458@qq.com>
+Date:   Mon May 3 12:41:58 2021 +0800
+
+    add-files
+
+[33mcommit bf17c0266eb0d964517d8cb7635f204fbca46c1e[m
+Author: niezeyu <1763703458@qq.com>
+Date:   Mon May 3 12:13:43 2021 +0800
+
+    init project
