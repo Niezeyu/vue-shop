@@ -4,3 +4,9 @@ html, body, #app {
   margin: 0;
   padding: 0;
 }
+.el-step__title {
+  font-size: 13px;
+}
+.el-card {
+  margin-top: 15px;
+}
